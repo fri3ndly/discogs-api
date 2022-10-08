@@ -1,5 +1,5 @@
 {
-    "name": "jolitagrazyte/discogs-api",
+    "name": "fri3ndly/discogs-api",
     "description": "A simple Discogs Api wrapper using Guzzle6.",
     "keywords": [
         "Discogs Api"
